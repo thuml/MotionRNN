@@ -20,7 +20,7 @@ To tackle the challenge of spacetime-varying motions modeling, the MotionRNN fra
 ## Get Started
 
 1. Install Python 3.6, PyTorch 1.9.0 for the main code.
-2. Download data. You can download the Human dataset from [here](https://github.com/Yunbo426/MIM). More datasets can be obtained from [here](https://github.com/thuml/predrnn-pytorch).
+2. Download data. You can download the Human dataset following the instruction from [here](https://github.com/Yunbo426/MIM). More datasets can be obtained from [here](https://github.com/thuml/predrnn-pytorch).
 
 3. Train and evaluate the model.
 ```
