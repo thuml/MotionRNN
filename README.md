@@ -3,7 +3,7 @@ MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions
 
 Different from previous models that focus on temporal state-transition modeling, MotionRNN attempts to model the patch-wise motion explicitly. Concretely, MotionRNN is featured by:
 
-- **Explicit motion modeling.** MotionRNN tries to learn the motion direction and distance for each patch, which can 
+- **Explicit motion modeling.** MotionRNN tries to learn the motion direction and distance for each patch, which can response to the complex spatiotemporal vairations quickly.
 - **Motion decomposition.** We present the **MotionGRU** unit to capture the transient variation and motion trend.
 - **Flexible framework.** MotionGRU can be embedded into previous models (e.g. ConvLSTM or PredRNN) with the help of **Motion Highway**, which can trade off moving and unchanged parts.
 
