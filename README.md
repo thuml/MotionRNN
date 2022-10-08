@@ -39,7 +39,7 @@ The center arrows show a moving up and anticlockwise rotation. The bottom arrows
 If you find this repo useful, please cite our paper. 
 
 ```
-@inproceedings{wu2022motionRNN,
+@inproceedings{wu2022MotionRNN,
   title={MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions},
   author={Haixu Wu and Zhiyu Yao and Jianmin Wang and Mingsheng Long},
   booktitle={CVPR},
