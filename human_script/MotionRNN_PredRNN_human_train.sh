@@ -4,8 +4,8 @@ python -u run.py \
     --is_training 1 \
     --device cuda \
     --dataset_name human \
-    --train_data_paths /workspace/wuhaixu/predrnn/data/human/human \
-    --valid_data_paths /workspace/wuhaixu/predrnn/data/human/human \
+    --train_data_paths ./data/human/human \
+    --valid_data_paths ./data/human/human \
     --save_dir checkpoints/human_MotionRNN_PredRNN_check \
     --gen_frm_dir results/human_MotionRNN_PredRNN_check \
     --model_name MotionRNN_PredRNN \
