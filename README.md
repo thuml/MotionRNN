@@ -30,6 +30,8 @@ bash MotionRNN_PredRNN_human_train.sh
 
 ## Learned Motion visualization
 
+The center arrows show a moving up and anticlockwise rotation. The bottom arrows indicate the downward-motion of a cyclone’s small tile.
+
 ![vis](./pic/vis.png)
 
 ## Citation
